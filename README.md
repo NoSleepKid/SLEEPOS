@@ -1,4 +1,4 @@
-# SLEEPOS - The First Unity-Based Windows Powered OS
+# SLEEPOS - The First Unity-Based Windows Powered OS (BETA OS)
 
 ![Logo](https://github.com/NoSleepKid/SLEEPOS-In-beta-/assets/115043889/7afa5756-0ec8-4d08-b94e-3ae929d61653)
 
