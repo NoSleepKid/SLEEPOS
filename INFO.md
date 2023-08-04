@@ -1,4 +1,0 @@
-WELCOME TO...
-![Loho](https://github.com/NoSleepKid/SLEEPOS-In-beta-/assets/115043889/7afa5756-0ec8-4d08-b94e-3ae929d61653)
-
-THE FIRST UNITY BASED WINDOWS POWERED OS
